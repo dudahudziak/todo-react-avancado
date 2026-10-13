@@ -51,13 +51,13 @@ src/
 ## Como rodar localmente
 
 ```bash
-git clone https://github.com/SEU-USUARIO/todo-react-avancado.git
+git clone https://github.com/dudahudziak/todo-react-avancado.git
 cd todo-react-avancado
 npm install
 npm run dev
 ```
 
-Abra o endereço exibido no terminal (normalmente http://localhost:5173).
+Abra o endereço exibido no terminal 
 
 ## Como validar a memoization
 
