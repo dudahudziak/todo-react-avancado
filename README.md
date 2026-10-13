@@ -59,6 +59,3 @@ npm run dev
 
 Abra o endereço exibido no terminal 
 
-## Como validar a memoization
-
-Abra o console do navegador (F12). Ao marcar uma tarefa como concluída, apenas o `TodoItem` dela aparece no log de novo. Os demais itens não renderizam, graças ao `React.memo`. No modo de desenvolvimento, o `React.StrictMode` pode duplicar os logs; isso não acontece no build de produção.
