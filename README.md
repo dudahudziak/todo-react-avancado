@@ -1,4 +1,4 @@
-# Todo React Avançado
+# To do React Avançado
 
 Lista de tarefas em React que permite **adicionar, concluir, remover e filtrar** tarefas (todas, pendentes e concluídas). Projeto de estudo sobre estado global, hooks customizados e memoization.
 
